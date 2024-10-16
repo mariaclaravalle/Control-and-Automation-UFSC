@@ -12,7 +12,9 @@ Before using the system, you need to install the following modules:
 ```bash
 pip install PySimpleGUI
 pip install pyzmq
+```
 > **Note**: PySimpleGUI is no longer free, but you can use the free trial for 30 days.
+
 
 ## How to Use
 Register: After installing the necessary modules, you can register yourself in the system.
